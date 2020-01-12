@@ -1,0 +1,5 @@
+spring:
+    datasource:
+        password: 8109
+        url: 'jdbc:mysql://18.212.69.239:3306/embhai?allowPublicKeyRetrieval=true'
+        username: root
